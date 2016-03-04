@@ -1,0 +1,32 @@
+i
+1
+alue
+2
+alue danxia
+3
+alue son1
+3
+alue son2
+4
+alue daughter
+2
+son1 wife1
+2
+son2 wife2
+5
+alue
+5
+son1
+3
+son1 grandson1
+5
+son1
+5
+son2
+12
+son1
+12
+grandson1
+13
+q
+q
